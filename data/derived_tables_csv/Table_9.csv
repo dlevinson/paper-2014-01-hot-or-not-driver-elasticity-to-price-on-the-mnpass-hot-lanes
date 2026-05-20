@@ -1,0 +1,11 @@
+Vehicle Counts (Q),,,
+,Baseline (B),Field Experiment (F),% Change
+Total,314645,328113,4.28
+HOV,189743,189313,-0.227
+SOV,124902,138800,11.127
+Average Price (P ̅),,,
+,Baseline (B),Field Experiment (F),% Change
+Total,1.86,2.433,30.84
+Simulation Weighted Average Price (P ̅),,,
+,Baseline (B),Field Experiment (F),% Change
+Total,2.006,2.58,28.596

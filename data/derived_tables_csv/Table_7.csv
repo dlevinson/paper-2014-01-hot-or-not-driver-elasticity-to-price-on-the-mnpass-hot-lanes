@@ -1,0 +1,6 @@
+,Average,Median,Std Dev
+Morning (Density),0.2,0.227,0.074
+Afternoon (Density),0.219,0.208,0.066
+Morning (MnPASS %),0.25,0.23,0.075
+Afternoon (MnPASS %),0.181,0.152,0.078
+Control (Density),0.02,-0.012,0.091

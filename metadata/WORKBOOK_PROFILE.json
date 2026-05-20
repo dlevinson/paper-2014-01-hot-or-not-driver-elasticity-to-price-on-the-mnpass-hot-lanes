@@ -1,0 +1,177 @@
+[
+  {
+    "sheet": "Figure 1",
+    "max_row": 1,
+    "max_column": 1,
+    "nonempty_rows": 0,
+    "exported_csv": ""
+  },
+  {
+    "sheet": "Figure 2",
+    "max_row": 1,
+    "max_column": 1,
+    "nonempty_rows": 0,
+    "exported_csv": ""
+  },
+  {
+    "sheet": "Figure 3",
+    "max_row": 1,
+    "max_column": 1,
+    "nonempty_rows": 0,
+    "exported_csv": ""
+  },
+  {
+    "sheet": "Figure 4",
+    "max_row": 1,
+    "max_column": 1,
+    "nonempty_rows": 0,
+    "exported_csv": ""
+  },
+  {
+    "sheet": "Figure 5",
+    "max_row": 1,
+    "max_column": 1,
+    "nonempty_rows": 0,
+    "exported_csv": ""
+  },
+  {
+    "sheet": "Figure 6",
+    "max_row": 1,
+    "max_column": 1,
+    "nonempty_rows": 0,
+    "exported_csv": ""
+  },
+  {
+    "sheet": "Figure 7",
+    "max_row": 1,
+    "max_column": 1,
+    "nonempty_rows": 0,
+    "exported_csv": ""
+  },
+  {
+    "sheet": "Figure 8",
+    "max_row": 1,
+    "max_column": 1,
+    "nonempty_rows": 0,
+    "exported_csv": ""
+  },
+  {
+    "sheet": "Figure 9",
+    "max_row": 1,
+    "max_column": 1,
+    "nonempty_rows": 0,
+    "exported_csv": ""
+  },
+  {
+    "sheet": "Figure 10",
+    "max_row": 1,
+    "max_column": 1,
+    "nonempty_rows": 0,
+    "exported_csv": ""
+  },
+  {
+    "sheet": "Figure 11",
+    "max_row": 1,
+    "max_column": 1,
+    "nonempty_rows": 0,
+    "exported_csv": ""
+  },
+  {
+    "sheet": "Figure 12",
+    "max_row": 1,
+    "max_column": 1,
+    "nonempty_rows": 0,
+    "exported_csv": ""
+  },
+  {
+    "sheet": "Figure 13",
+    "max_row": 1,
+    "max_column": 1,
+    "nonempty_rows": 0,
+    "exported_csv": ""
+  },
+  {
+    "sheet": "Table 1",
+    "max_row": 7,
+    "max_column": 6,
+    "nonempty_rows": 7,
+    "exported_csv": "data/derived_tables_csv/Table_1.csv"
+  },
+  {
+    "sheet": "Table 2",
+    "max_row": 3,
+    "max_column": 7,
+    "nonempty_rows": 3,
+    "exported_csv": "data/derived_tables_csv/Table_2.csv"
+  },
+  {
+    "sheet": "Table 3",
+    "max_row": 7,
+    "max_column": 6,
+    "nonempty_rows": 7,
+    "exported_csv": "data/derived_tables_csv/Table_3.csv"
+  },
+  {
+    "sheet": "Table 4",
+    "max_row": 5,
+    "max_column": 3,
+    "nonempty_rows": 5,
+    "exported_csv": "data/derived_tables_csv/Table_4.csv"
+  },
+  {
+    "sheet": "Table 5",
+    "max_row": 5,
+    "max_column": 8,
+    "nonempty_rows": 5,
+    "exported_csv": "data/derived_tables_csv/Table_5.csv"
+  },
+  {
+    "sheet": "Table 6",
+    "max_row": 24,
+    "max_column": 5,
+    "nonempty_rows": 8,
+    "exported_csv": "data/derived_tables_csv/Table_6.csv"
+  },
+  {
+    "sheet": "Table 7",
+    "max_row": 6,
+    "max_column": 4,
+    "nonempty_rows": 6,
+    "exported_csv": "data/derived_tables_csv/Table_7.csv"
+  },
+  {
+    "sheet": "Table 8",
+    "max_row": 10,
+    "max_column": 4,
+    "nonempty_rows": 10,
+    "exported_csv": "data/derived_tables_csv/Table_8.csv"
+  },
+  {
+    "sheet": "Table 9",
+    "max_row": 11,
+    "max_column": 4,
+    "nonempty_rows": 11,
+    "exported_csv": "data/derived_tables_csv/Table_9.csv"
+  },
+  {
+    "sheet": "Table 10",
+    "max_row": 4,
+    "max_column": 3,
+    "nonempty_rows": 4,
+    "exported_csv": "data/derived_tables_csv/Table_10.csv"
+  },
+  {
+    "sheet": "Appendix 1",
+    "max_row": 1,
+    "max_column": 1,
+    "nonempty_rows": 0,
+    "exported_csv": ""
+  },
+  {
+    "sheet": "Appendix 2",
+    "max_row": 1,
+    "max_column": 1,
+    "nonempty_rows": 0,
+    "exported_csv": ""
+  }
+]

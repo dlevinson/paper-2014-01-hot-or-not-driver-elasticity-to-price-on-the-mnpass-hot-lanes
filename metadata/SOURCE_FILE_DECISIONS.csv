@@ -1,0 +1,7 @@
+item,decision,reason
+paper/HOT-or-Not-Janson-and-Levinson.pdf,include,Published paper reference copy for evidence.
+data/derived_workbook/Figures_and_Tables_Janson_Levinson.xlsx,include,Aggregate derived paper figures/tables workbook.
+data/derived_tables_csv/*.csv,include,CSV exports of non-empty aggregate workbook sheets.
+source MnPASS logs,exclude,Operational/transponder source records are outside the public GitHub package boundary.
+MnPASS Paper - MnDOT.rar,exclude,"Archive listing contains manuscript source and images, not data/code needed for the package."
+drafts/review responses/presentations/figure duplicates,exclude,Non-archival clutter for data/code reproducibility package.

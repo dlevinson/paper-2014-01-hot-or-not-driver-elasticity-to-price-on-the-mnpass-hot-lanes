@@ -1,5 +1,9 @@
 # HOT Or Not: Driver Elasticity To Price On The MnPASS HOT Lanes
 
+## Contribution
+
+This paper measures how drivers respond to dynamically priced MnPASS high-occupancy toll lanes using toll, detector, and transponder records. It estimates the elasticity of paid-lane demand and links price response to traffic conditions, providing direct behavioral evidence for operating optional congestion-priced lanes while preserving service quality.
+
 ## Bibliographic Information
 
 - Row ID: `paper-2014-01`

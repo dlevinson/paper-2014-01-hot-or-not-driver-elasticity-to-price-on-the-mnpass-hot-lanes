@@ -1,13 +1,15 @@
 # License Status: HOT Or Not: Driver Elasticity To Price On The MnPASS HOT Lanes
 
-Generated: 2026-05-21 20:04:48 AEST
+Generated: 2026-07-02 10:51:46 AEST
 
-Recorded license/access note from the verified audit row: No explicit license found for the derived workbook; choose/confirm intended repository license at GitHub upload. Raw MnPASS source logs remain outside the public package.
+Root license file: `LICENSE`
 
-Before public GitHub upload, add an explicit license for author-created code/data or mark the package as citation/provenance-only. Do not license third-party raw data or publisher PDFs.
+The root license applies CC BY 4.0 only to rights-cleared author-created repository documentation, package metadata, source-decision notes, workbook profiles, and aggregate derived workbook/CSV table materials in this package.
+
+No software license is asserted because no executable software, scripts, notebooks, model source code, or paper-specific runtime code are staged.
 
 ## Practical Rule
 
-- Author-created code can receive an explicit software license only after finality/provenance is confirmed.
-- Author-created data/derived tables can receive an explicit data/documentation license only after source rights are clear.
-- Third-party raw data and publisher PDFs are not relicensed here.
+- The publication PDF under `paper/` retains its publication, repository, or manuscript terms.
+- Raw MnPASS toll-system logs, operator logs, transponder/subscriber records, loop-detector density or flow records, price logs, field-experiment records, lane operations records, and other MnDOT, MnPASS, public-agency, proprietary, or controlled source materials are not relicensed here.
+- Manuscript-source archives, drafts, review responses, presentations, LaTeX/build products, figures/images, cited references, vendor file-format structures, and third-party materials retain their original terms.
